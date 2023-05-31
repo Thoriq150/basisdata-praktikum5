@@ -19,6 +19,10 @@
 ## Latihan
 
 #### • Lakukan join table Mahasiswa dan Dosen
-#### • Lakukan left join tabel Matakuliah dan Dosen
+#### • Lakukan left join tabel Mahasiswa dan Dosen
 #### • Lakukan join table JadwalMengajar, Dosen, dan Matakuluan
 #### • Lakukan join tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen
+
+### 1.Join tabel Mahasiswa dan Dosen:
+![Screenshot (11)](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/9683f16d-9708-40cc-a55a-c36dbc5192c4)
+
