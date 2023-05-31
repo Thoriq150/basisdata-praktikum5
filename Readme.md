@@ -16,6 +16,8 @@
 ### Buat tabel matakuliah
 ![5](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/1b719c93-55a5-466c-8230-3e5f3503a6c1)
 
+## Latihan
+
 #### • Lakukan join table Mahasiswa dan Dosen
 #### • Lakukan left join tabel Matakuliah dan Dosen
 #### • Lakukan join table JadwalMengajar, Dosen, dan Matakuluan
