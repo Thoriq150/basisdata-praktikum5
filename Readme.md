@@ -27,3 +27,11 @@
 ![Screenshot (20)](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/7a73a9c9-fe6e-4de6-ba45-e7721bd26bd0)
 
 
+### 2.LEFT JOIN table Mahasiswa dan Dosen
+![left table1](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/02bf707f-d341-46f1-96ac-8eceab3a0863)
+
+### 3.JOIN table JadwalMengajar, Dosen, dan Matakuliah
+![3tabel1](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/c9bd2aac-8d62-4cac-9a2f-36721ef629b5)
+
+
+![3table](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/ed614502-6b59-4934-b90b-6629453c7da0)
