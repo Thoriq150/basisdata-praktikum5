@@ -24,5 +24,6 @@
 #### • Lakukan join tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen
 
 ### 1.Join tabel Mahasiswa dan Dosen:
-![Screenshot (11)](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/9683f16d-9708-40cc-a55a-c36dbc5192c4)
+![Screenshot (20)](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/7a73a9c9-fe6e-4de6-ba45-e7721bd26bd0)
+
 
