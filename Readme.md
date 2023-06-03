@@ -26,12 +26,19 @@
 ### 1.Join tabel Mahasiswa dan Dosen:
 ![Screenshot (20)](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/7a73a9c9-fe6e-4de6-ba45-e7721bd26bd0)
 
-
+####  lakukan join pada kedua tabel yang ingin bisa dengan natural ataupun inner dan pilihlah baris tabel nim,nama,jenis kelamin maka akan muncul seperti diatas 
+ 
 ### 2.LEFT JOIN table Mahasiswa dan Dosen
 ![left table1](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/02bf707f-d341-46f1-96ac-8eceab3a0863)
+
+#### lakukan join pada kedua tabel dengan left join dan pilihlah baris tabel nim , nama , jk , nama dosen yang bisa dirubah menggunakan AS seperti diatas
 
 ### 3.JOIN table JadwalMengajar, Dosen, dan Matakuliah
 ![3tabel1](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/c9bd2aac-8d62-4cac-9a2f-36721ef629b5)
 
 
 ![3table](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/ed614502-6b59-4934-b90b-6629453c7da0)
+
+### 4.JOIN tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen
+![Screenshot (32)](https://github.com/Thoriq150/basisdata-praktikum5/assets/115950790/7334bcf6-b479-4524-8b7a-58b8907a2627)
+
